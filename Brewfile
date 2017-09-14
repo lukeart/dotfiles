@@ -14,6 +14,7 @@ brew 'imagemagick'
 brew 'node'
 
 #brew 'jq'
+brew 'midnight-commander'
 brew 'libgit2'
 brew 'readline'
 brew 'p7zip'
